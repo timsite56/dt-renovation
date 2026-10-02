@@ -339,7 +339,7 @@
 }
 </script>
 
-  <link rel="preload" as="image" href="images/hero-bg.jpg" />
+  <link rel="preload" as="image" href="images/hero-bg.jpg" fetchpriority="high" />
   <!-- SEO-BLOCK-END -->
   <!-- FAVICON (logo du site dans l'onglet du navigateur) -->
   <link rel="icon" href="favicon.svg" type="image/svg+xml" />
@@ -1170,7 +1170,7 @@
 </nav>
 
 <!-- HERO -->
-<section id="hero">
+<section id="hero" style="background-image:url('images/hero-bg.jpg')">
   <div class="hero-inner">
     <span class="hero-eyebrow fade-up" style="--delay:.1s">
       <span style="display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--primary);flex-shrink:0"></span>
@@ -1243,7 +1243,7 @@
       </div>
     </div>
     <div class="about-photo">
-      <img id="aboutImg" src="" alt="" loading="lazy" />
+      <img id="aboutImg" src="images/apropos.jpg" alt="DT Rénovation — couvreur à Vendeuvre-sur-Barse" loading="lazy" />
     </div>
   </div>
 </section>
@@ -1251,10 +1251,10 @@
 <!-- STATS -->
 <section id="stats">
   <div class="stats-inner" id="statsInner"><div class="stat-block">
-        <div class="stat-val" data-target="10" data-prefix="">0</div>
+        <div class="stat-val" data-target="10" data-prefix="">10</div>
         <div class="stat-lbl">Ans d'expérience</div>
       </div><div class="stats-divider"></div><div class="stat-block">
-        <div class="stat-val" data-target="100" data-prefix="+">0</div>
+        <div class="stat-val" data-target="100" data-prefix="+">+100</div>
         <div class="stat-lbl">Réalisations</div>
       </div></div>
 </section>
@@ -1331,11 +1331,11 @@
     <div class="villes">
       <a class="ville-chip" href="zones-intervention.html">Vendeuvre-sur-Barse</a>
       <a class="ville-chip" href="zones-intervention.html">Troyes</a>
-      <a class="ville-chip" href="zones-intervention.html">Bar-sur-Aube</a>
-      <a class="ville-chip" href="zones-intervention.html">Lusigny-sur-Barse</a>
-      <a class="ville-chip" href="zones-intervention.html">Piney</a>
-      <a class="ville-chip" href="zones-intervention.html">Brienne-le-Château</a>
-      <a class="ville-chip" href="zones-intervention.html">Bar-sur-Seine</a>
+      <a class="ville-chip" href="couvreur-bar-sur-aube.html">Bar-sur-Aube</a>
+      <a class="ville-chip" href="couvreur-lusigny-sur-barse.html">Lusigny-sur-Barse</a>
+      <a class="ville-chip" href="couvreur-piney.html">Piney</a>
+      <a class="ville-chip" href="couvreur-brienne-le-chateau.html">Brienne-le-Château</a>
+      <a class="ville-chip" href="couvreur-bar-sur-seine.html">Bar-sur-Seine</a>
       <a class="ville-chip" href="zones-intervention.html">Magnant</a>
       <a class="ville-chip" href="zones-intervention.html">Champ-sur-Barse</a>
       <a class="ville-chip" href="zones-intervention.html">Jessains</a>
@@ -1343,7 +1343,7 @@
       <a class="ville-chip" href="zones-intervention.html">Amance</a>
       <a class="ville-chip" href="zones-intervention.html">Montiéramey</a>
       <a class="ville-chip" href="zones-intervention.html">Géraudot</a>
-      <a class="ville-chip" href="zones-intervention.html">Mesnil-Saint-Père</a>
+      <a class="ville-chip" href="couvreur-mesnil-saint-pere.html">Mesnil-Saint-Père</a>
       <a class="ville-chip" href="zones-intervention.html">Thieffrain</a>
     </div>
   </div>
@@ -1672,7 +1672,7 @@
       </span>
     </div>
   </div>
-  <p class="footer-villes">Vendeuvre-sur-Barse · Troyes · Bar-sur-Aube · Lusigny-sur-Barse · Piney · Brienne-le-Château · Bar-sur-Seine · Magnant · Champ-sur-Barse · Jessains · Dolancourt · Amance · Montiéramey · Géraudot · Mesnil-Saint-Père · Thieffrain</p>
+  <p class="footer-villes">Vendeuvre-sur-Barse · Troyes · <a href="couvreur-bar-sur-aube.html" style="color:inherit">Bar-sur-Aube</a> · <a href="couvreur-lusigny-sur-barse.html" style="color:inherit">Lusigny-sur-Barse</a> · <a href="couvreur-piney.html" style="color:inherit">Piney</a> · <a href="couvreur-brienne-le-chateau.html" style="color:inherit">Brienne-le-Château</a> · <a href="couvreur-bar-sur-seine.html" style="color:inherit">Bar-sur-Seine</a> · Magnant · Champ-sur-Barse · Jessains · Dolancourt · Amance · Montiéramey · Géraudot · <a href="couvreur-mesnil-saint-pere.html" style="color:inherit">Mesnil-Saint-Père</a> · Thieffrain</p>
   <div class="footer-bottom">
     <span>© <span id="footerAnnee">2026</span> <span id="footerNom">DT Rénovation</span> — Couvreur dans l'Aube (10)</span>
     <a href="zones-intervention.html">Zones d'intervention</a>
