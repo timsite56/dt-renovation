@@ -1,0 +1,342 @@
+{
+  "nom_entreprise": "DT Rénovation",
+  "type_artisan": "Couvreur",
+  "ville": "Vendeuvre-sur-Barse",
+  "telephone_affiche": "06 79 89 23 88",
+  "telephone_tel": "+33679892388",
+  "annee": "2026",
+  "design": {
+    "palette": "orange",
+    "nav_style": "transparent",
+    "stats_style": "classique"
+  },
+  "hero": {
+    "image": "images/hero-bg.jpg",
+    "titre": "Couvreur et rénovation à Vendeuvre-sur-Barse et autour de Troyes",
+    "description": "DT Rénovation rénove vos toitures et vos intérieurs à Vendeuvre-sur-Barse, Troyes, Bar-sur-Aube et autour de la forêt d'Orient. Devis gratuit et sans engagement."
+  },
+  "apropos": {
+    "image": "images/apropos.jpg",
+    "texte": "DT Rénovation est une entreprise de couverture et de rénovation basée à Vendeuvre-sur-Barse (10140), entre Troyes et Bar-sur-Aube. Toiture neuve ou rénovée, réparation de fuites, démoussage, zinguerie et fenêtres de toit, mais aussi tout ce qui se passe sous le toit : isolation des combles, doublages, cloisons, plafonds et planchers.\n\nUn seul interlocuteur du toit aux pièces habitables, un chantier propre et des délais tenus. Garantie décennale, responsabilité civile professionnelle, devis gratuit et détaillé : nous intervenons à Vendeuvre-sur-Barse, Troyes, Bar-sur-Aube, Lusigny-sur-Barse, Piney et tout autour de la forêt d'Orient.",
+    "badges": [
+      "Couvreur de l'Aube",
+      "Rénovation intérieure",
+      "Garantie décennale",
+      "Devis gratuit"
+    ]
+  },
+  "stats": [
+    {
+      "valeur": "10",
+      "label": "Ans d'expérience"
+    },
+    {
+      "valeur": "100",
+      "label": "Réalisations"
+    }
+  ],
+  "services": [
+    {
+      "titre": "Rénovation et Réparation Toiture",
+      "description": "Inspection, diagnostic précis et travaux de remise à neuf pour prolonger la vie de votre toit et assurer son étanchéité.",
+      "image": "images/service1.jpg",
+      "page": "renovation-reparation-toiture.html",
+      "points": [
+        "Diagnostic complet de la couverture",
+        "Remplacement des tuiles cassées ou glissées",
+        "Reprise de la charpente et du support",
+        "Traitement des infiltrations et des fuites",
+        "Réfection partielle ou totale",
+        "Mise en conformité et étanchéité"
+      ]
+    },
+    {
+      "titre": "Pose de Toiture Neuve",
+      "description": "Installation complète de toitures traditionnelles ou modernes, avec des matériaux adaptés à vos besoins et au climat local.",
+      "image": "images/service2.jpg",
+      "page": "pose-toiture-neuve.html",
+      "points": [
+        "Tuile mécanique, tuile plate et bac acier",
+        "Dépose de l'ancienne couverture",
+        "Pose de l'écran sous-toiture",
+        "Liteaunage et fixation",
+        "Isolation de la sous-toiture",
+        "Finitions de rives, arêtiers et faîtage"
+      ]
+    },
+    {
+      "titre": "Entretien et Démoussage",
+      "description": "Nettoyage professionnel, traitement préventif et entretien régulier pour préserver l'intégrité et l'esthétique de votre couverture.",
+      "image": "images/service3.jpg",
+      "page": "entretien-demoussage.html",
+      "points": [
+        "Démoussage manuel et mécanique",
+        "Traitement curatif anti-mousse",
+        "Hydrofuge de protection",
+        "Curage des gouttières",
+        "Contrôle des tuiles et des faîtages",
+        "Entretien annuel programmé"
+      ]
+    },
+    {
+      "titre": "Peinture Intérieure",
+      "description": "Nous réalisons tous vos travaux de peinture pour murs, plafonds et boiseries. Choix de couleurs, conseils personnalisés et finitions impeccables pour un intérieur qui vous ressemble.",
+      "image": "images/service4.jpg",
+      "page": "peinture-interieure.html",
+      "points": [
+        "Murs, plafonds et boiseries",
+        "Rebouchage et préparation des supports",
+        "Peinture mate, satinée ou velours",
+        "Pose de papier peint et revêtements",
+        "Conseils couleurs personnalisés",
+        "Protection du mobilier et nettoyage"
+      ]
+    },
+    {
+      "titre": "Peinture Extérieure",
+      "description": "Protection et embellissement de vos façades, boiseries et ferronneries. Des produits résistants aux intempéries pour une durabilité et un esthétisme préservés.",
+      "image": "images/service5.jpg",
+      "page": "peinture-exterieure.html",
+      "points": [
+        "Façades, volets et portails",
+        "Bardages et ferronneries",
+        "Traitement antirouille et antifongique",
+        "Peintures microporeuses extérieures",
+        "Boiseries et garde-corps",
+        "Protection des abords du chantier"
+      ]
+    },
+    {
+      "titre": "Travaux de zinguerie",
+      "description": "Installation et réparation de gouttières, chéneaux et éléments en zinc pour une évacuation optimale des eaux pluviales et une protection accrue de votre façade.",
+      "image": "images/service6.jpg",
+      "page": "zinguerie.html",
+      "points": [
+        "Gouttières pendantes et rampantes",
+        "Chéneaux et noues en zinc",
+        "Descentes d'eaux pluviales",
+        "Solins et raccords de cheminée",
+        "Bandeaux, rives et habillages",
+        "Soudure du zinc sur place"
+      ]
+    },
+    {
+      "titre": "Nettoyage et ravalement façade",
+      "description": "Redonnez un coup de jeune à vos murs extérieurs. Nous nettoyons et traitons vos façades pour une protection durable et une esthétique renouvelée.",
+      "image": "images/service7.jpg",
+      "page": "nettoyage-ravalement-facade.html",
+      "points": [
+        "Nettoyage haute pression et brossage",
+        "Traitement anti-mousse des murs",
+        "Reprise des fissures et des épaufrures",
+        "Enduit taloché, gratté ou à la chaux",
+        "Peinture de façade microporeuse",
+        "Protection hydrofuge incolore"
+      ]
+    },
+    {
+      "titre": "Installation et remplacement de Velux",
+      "description": "Pose et remplacement de fenêtres de toit Velux pour apporter plus de lumière et améliorer votre confort.",
+      "image": "images/service8.jpg",
+      "page": "pose-velux.html",
+      "points": [
+        "Création de la trémie dans la charpente",
+        "Pose du cadre et du raccord d'étanchéité",
+        "Remplacement de fenêtres anciennes",
+        "Reprise de la couverture autour",
+        "Finitions intérieures et habillage",
+        "Stores et volets roulants"
+      ]
+    },
+    {
+      "titre": "Peinture de toiture",
+      "description": "Redonnez de l'éclat à votre toiture grâce à une peinture professionnelle résistante aux intempéries et aux UV.",
+      "image": "images/service9.jpg",
+      "page": "peinture-toiture.html",
+      "points": [
+        "Nettoyage et traitement préalable",
+        "Résine de protection pigmentée",
+        "Tuiles béton et terre cuite",
+        "Fibrociment et bac acier",
+        "Application en deux couches",
+        "Uniformisation de la teinte"
+      ]
+    }
+  ],
+  "avis": {
+    "google_score": "5.0",
+    "nb_avis": "3 avis",
+    "visible": true,
+    "temoignages": [
+      {
+        "initiale": "L",
+        "nom": "Laurent Petitjean",
+        "texte": "Isolation des combles et pose d'une fenêtre de toit, travail propre et soigné. Très bon contact, délais respectés, je recommande."
+      },
+      {
+        "initiale": "C",
+        "nom": "Céline Rousselot",
+        "texte": "Rénovation complète d'une pièce : doublage, plafond et plancher. Le résultat est top et le chantier a été laissé propre chaque soir. Merci !"
+      },
+      {
+        "initiale": "P",
+        "nom": "Patrick Marchal",
+        "texte": "Remplacement de tuiles et nettoyage de la toiture après l'hiver. Devis rapide et honnête, intervention dans la semaine. Sérieux et efficace."
+      }
+    ]
+  },
+  "galerie": [
+    {
+      "image": "images/gallery1.jpg",
+      "legende": "Fenêtre de toit posée et habillée sous les combles"
+    },
+    {
+      "image": "images/gallery2.jpg",
+      "legende": "Isolation et ossature de doublage autour d'une fenêtre"
+    },
+    {
+      "image": "images/gallery3.jpg",
+      "legende": "Pièce isolée, ossature de plafond et de cloisons"
+    },
+    {
+      "image": "images/gallery4.jpg",
+      "legende": "Plancher neuf sur solivage"
+    },
+    {
+      "image": "images/gallery5.jpg",
+      "legende": "Portail aluminium posé"
+    },
+    {
+      "image": "images/gallery6.jpg",
+      "legende": "Reprise de maçonnerie et rebouchage d'une ouverture"
+    }
+  ],
+  "faq": [
+    {
+      "question": "Quels sont vos horaires ?",
+      "reponse": "Nous sommes joignables du lundi au vendredi de 7h à 19h et le samedi de 8h à 15h, au 06 79 89 23 88. En cas de fuite, appelez-nous : nous posons une protection provisoire en priorité."
+    },
+    {
+      "question": "Faites-vous aussi la rénovation intérieure sous la toiture ?",
+      "reponse": "Oui. Isolation des combles, doublages, cloisons, plafonds, planchers et pose de fenêtres de toit habillées : nous rénovons la maison du toit jusqu'aux pièces habitables, avec un seul interlocuteur."
+    },
+    {
+      "question": "À quelle fréquence faut-il démousser un toit dans l'Aube ?",
+      "reponse": "Tous les quatre à six ans. Avec l'humidité des lacs et de la forêt d'Orient, le gel et les longs hivers, la mousse repousse vite, surtout sur les pans exposés au nord et à proximité des arbres. Un traitement hydrofuge espace nettement les interventions."
+    },
+    {
+      "question": "Dans quelles communes intervenez-vous ?",
+      "reponse": "Nous intervenons à Vendeuvre-sur-Barse et dans la Côte des Bar et autour de la forêt d'Orient : Troyes, Bar-sur-Aube, Lusigny-sur-Barse, Piney, Brienne-le-Château, Bar-sur-Seine, Magnant, Champ-sur-Barse, Jessains, Dolancourt, Amance, Montiéramey, Géraudot, Mesnil-Saint-Père et Thieffrain."
+    },
+    {
+      "question": "Quand faut-il envisager une rénovation de toiture ?",
+      "reponse": "Dès que vous constatez des tuiles glissées ou cassées, des traces d'humidité en sous-toiture, une mousse épaisse ou des gouttières qui débordent. Un diagnostic sur place permet de savoir si une réparation suffit ou si la réfection s'impose."
+    },
+    {
+      "question": "Proposez-vous des devis gratuits ?",
+      "reponse": "Oui, le devis est gratuit, détaillé poste par poste et sans engagement. Nous nous déplaçons sur place pour évaluer les travaux et vous donner un prix ferme."
+    }
+  ],
+  "contact_description": "Une fuite ou un projet de toiture ? Appelez-nous au 06 79 89 23 88, le devis est gratuit.",
+  "footer_description": "Couvreur à Vendeuvre-sur-Barse (10). Rénovation et réparation de toiture, zinguerie, démoussage, Velux, façade et peinture dans la Côte des Bar et autour de la forêt d'Orient.",
+  "horaires": {
+    "visible": true,
+    "adresse": "Vendeuvre-sur-Barse (10140)",
+    "lat": 48.2412,
+    "lng": 4.4532,
+    "jours": [
+      {
+        "nom": "Lundi",
+        "ferme": false,
+        "matin_debut": "07:00",
+        "matin_fin": "19:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Mardi",
+        "ferme": false,
+        "matin_debut": "07:00",
+        "matin_fin": "19:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Mercredi",
+        "ferme": false,
+        "matin_debut": "07:00",
+        "matin_fin": "19:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Jeudi",
+        "ferme": false,
+        "matin_debut": "07:00",
+        "matin_fin": "19:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Vendredi",
+        "ferme": false,
+        "matin_debut": "07:00",
+        "matin_fin": "19:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Samedi",
+        "ferme": false,
+        "matin_debut": "08:00",
+        "matin_fin": "15:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      },
+      {
+        "nom": "Dimanche",
+        "ferme": true,
+        "matin_debut": "08:00",
+        "matin_fin": "12:00",
+        "am_active": false,
+        "am_debut": "",
+        "am_fin": ""
+      }
+    ]
+  },
+  "seo": {
+    "title": "Couvreur à Vendeuvre-sur-Barse et à Troyes (10) — toiture, zinguerie, démoussage | DT Rénovation",
+    "description": "DT Rénovation, couvreur à Vendeuvre-sur-Barse : rénovation et réparation de toiture, couverture neuve, démoussage, zinguerie, Velux, façade et peinture dans la Côte des Bar et autour de la forêt d'Orient. Devis gratuit au 06 79 89 23 88.",
+    "keywords": "couvreur Vendeuvre-sur-Barse, couvreur Troyes, couvreur 10, rénovation toiture Aube, zinguerie Bar-sur-Aube, démoussage toiture Troyes, couvreur Lusigny-sur-Barse, couvreur Piney, toiture Vendeuvre-sur-Barse, réparation fuite toiture Aube",
+    "email": "",
+    "code_postal": "10140",
+    "departement": "Aube",
+    "geo_region": "FR-10",
+    "lat": 48.2412,
+    "lng": 4.4532,
+    "villes": [
+      "Vendeuvre-sur-Barse",
+      "Troyes",
+      "Bar-sur-Aube",
+      "Lusigny-sur-Barse",
+      "Piney",
+      "Brienne-le-Château",
+      "Bar-sur-Seine",
+      "Magnant",
+      "Champ-sur-Barse",
+      "Jessains",
+      "Dolancourt",
+      "Amance",
+      "Montiéramey",
+      "Géraudot",
+      "Mesnil-Saint-Père",
+      "Thieffrain"
+    ]
+  }
+}
